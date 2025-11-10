@@ -1,0 +1,17 @@
+# Python Virtual Environment
+venv/
+.venv/
+
+# IDE Settings (JetBrains)
+.idea/
+*.iml
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Output Files
+# These are created by the scripts
+*.pkl
+*.png
+*.csv
